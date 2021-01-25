@@ -4,8 +4,8 @@
  * Plugin Name: Custom Field Registration Form
  * Description: Add custom field.
  * Version: 0.1
- * Author: DigitalMaMa
- * Author URI: https://digitalmama.it/
+ * Author: Matteo Rigamonti
+ * Author URI: https://matteorigamonti.info/
  */
 
 defined( 'ABSPATH' ) || exit;
